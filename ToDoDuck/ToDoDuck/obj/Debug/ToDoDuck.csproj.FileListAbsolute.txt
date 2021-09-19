@@ -1,0 +1,25 @@
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.fMainMenu.resources
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.Properties.Resources.resources
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\bin\Debug\ToDoDuck.exe.config
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\bin\Debug\ToDoDuck.exe
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\bin\Debug\ToDoDuck.pdb
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.exe
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.pdb
+C:\Users\hp\Desktop\курсовая\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.fCalendar.resources
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.fCalendar.resources
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.fMainMenu.resources
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.Properties.Resources.resources
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.exe
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.pdb
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\bin\Debug\ToDoDuck.exe.config
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\bin\Debug\ToDoDuck.exe
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\bin\Debug\ToDoDuck.pdb
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.fToDoDayList.resources
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.fDesks.resources
+C:\Users\hp\Desktop\курсовая — с кнопками а не лейблами\ToDoDuck\ToDoDuck\obj\Debug\ToDoDuck.fHelp.resources
